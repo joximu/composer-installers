@@ -1,11 +1,11 @@
 {
-  "name": "imscp/composer-installers",
+  "name": "joximu/composer-installers",
   "type": "composer-plugin",
   "license": "LGPL-2.1-only",
-  "description": "i-MSCP composer installers",
+  "description": "i-MSCP-joxi composer installers",
   "keywords": [
     "installers",
-    "iMSCP",
+    "iMSCP-joxi",
     "tools",
     "plugins",
     "library",
